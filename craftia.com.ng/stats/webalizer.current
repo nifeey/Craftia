@@ -1,0 +1,323 @@
+# Webalizer V2.23-08 Incremental Data - 01/07/2025 04:56:19
+2025 1 7 4 56 19
+82 24 37 1 3 27 3344454 38 33 0
+12 4 28 1 7
+29 0 7038 5 2 2
+6 2 299343 5 3 3
+13 4 598753 8 8 7
+7 1 150588 6 5 5
+8 2 299872 6 4 3
+3 1 149691 3 2 2
+16 14 1839169 12 14 11
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 1 198011 2
+0 0 0 0
+26 0 6370 0
+11 9 1044628 9
+4 4 596676 4
+0 0 0 0
+3 0 668 1
+4 1 149974 3
+2 0 522 1
+0 0 0 0
+0 0 0 0
+2 1 149430 1
+0 0 0 0
+1 0 245 1
+1 1 149169 1
+5 3 447968 4
+2 2 298338 2
+4 0 1044 2
+2 0 490 1
+5 0 1126 2
+0 0 0 0
+4 1 149843 2
+4 1 149952 2
+0 0 0 0
+0
+0
+0
+24
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+55
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/
+0 24 0 3330231 21 0
+# End Of Table - urls
+# -sites- (monthly)
+52.167.144.220
+0 9 0 2205 0 0
+-
+102.91.104.29
+0 4 0 980 1 1735932895
+-
+54.71.187.124
+0 1 1 149169 1 1736220836
+/
+207.46.13.107
+0 1 0 245 1 1735975955
+-
+3.253.245.227
+0 1 1 197865 1 1736208054
+/
+35.91.156.31
+0 2 2 298338 1 1736093101
+/
+13.59.5.85
+0 1 1 149169 1 1736220745
+/
+35.202.99.60
+0 2 0 522 0 0
+-
+137.184.140.204
+0 1 1 149169 1 1736225779
+/
+66.249.66.32
+0 1 0 261 0 0
+-
+66.249.66.37
+0 1 0 261 0 0
+-
+66.249.66.35
+0 4 0 1044 3 1736203879
+-
+147.185.132.222
+0 1 0 146 1 1735952239
+/
+34.174.118.221
+0 2 1 149353 1 1736221541
+/
+101.18.140.251
+0 1 1 149169 1 1736149865
+/
+66.249.66.45
+0 1 1 149169 1 1736220742
+/
+157.173.122.176
+0 1 1 149169 1 1735915074
+/
+52.167.144.199
+0 2 0 490 2 1736113623
+-
+66.249.66.36
+0 5 0 1305 2 1736012412
+-
+107.178.194.135
+0 2 2 149169 1 1736220750
+/
+52.167.144.22
+0 7 0 1715 0 0
+-
+34.72.176.129
+0 1 1 149169 1 1736224477
+/
+157.55.39.51
+0 10 0 2450 0 0
+-
+157.55.39.58
+0 1 0 245 1 1735843917
+-
+105.112.99.173
+0 2 1 149353 1 1735938171
+/
+34.34.253.207
+0 2 1 149430 1 1736030977
+/
+138.246.253.24
+0 1 0 315 0 0
+-
+35.91.238.239
+0 2 2 298338 1 1735918268
+/
+205.169.39.82
+0 2 2 298338 1 1736224995
+/
+52.167.144.17
+0 1 0 245 1 1735998959
+-
+102.91.92.20
+0 1 1 149108 1 1735833557
+/
+44.212.57.252
+0 1 0 146 1 1735712664
+-
+5.133.192.171
+0 2 1 149430 1 1735817972
+/
+147.185.132.219
+0 1 0 146 1 1735932425
+/
+207.46.13.230
+0 2 0 490 0 0
+-
+18.117.96.185
+0 1 1 149169 1 1736220762
+/
+107.178.194.134
+0 2 2 149169 1 1736220751
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+54.71.187.124
+0 1 1 149169 1 1736220836
+/
+3.253.245.227
+0 1 1 197865 1 1736208054
+/
+13.59.5.85
+0 1 1 149169 1 1736220745
+/
+137.184.140.204
+0 1 1 149169 1 1736225779
+/
+66.249.66.32
+0 1 0 261 0 0
+-
+34.174.118.221
+0 2 1 149353 1 1736221541
+/
+66.249.66.45
+0 1 1 149169 1 1736220742
+/
+107.178.194.135
+0 2 2 149169 1 1736220750
+/
+34.72.176.129
+0 1 1 149169 1 1736224477
+/
+205.169.39.82
+0 2 2 298338 1 1736224995
+/
+18.117.96.185
+0 1 1 149169 1 1736220762
+/
+107.178.194.134
+0 2 2 149169 1 1736220751
+/
+# End Of Table - sites (daily)
+# -referrers- 
+https://craftia.com.ng/
+0 2
+- (Direct Request)
+0 76
+http://craftia.com.ng
+0 4
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/133.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64)AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+0 4
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.182
+0 2
+python-httpx/0.27.2
+0 1
+Mozilla/5.0 (Linux; Android 13; V2231A; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/87.0.4280.141 Mobile Sa
+0 1
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.19
+0 33
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/125.0.6422.60 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.4 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.4 facebook
+0 2
+GoogleOther
+0 1
+PycURL/7.45.4 libcurl/8.11.1-DEV OpenSSL/3.4.0 zlib/1.2.11 libssh2/1.11.1_DEV nghttp2/1.64.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 AppEngi
+0 2
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.139 Mobile
+0 5
+NetworkingExtension/8620.1.16.10.11 Network/4277.60.255 iOS/18.2
+0 3
+Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 13; Pixel 4a (5G) Build/TQ2A.230505.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 C
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.
+0 1
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) EdgiOS/120.0.2210.105 Version
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
